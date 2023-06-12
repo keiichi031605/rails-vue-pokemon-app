@@ -1,25 +1,10 @@
-# README
+# Pokemon App
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+### System dependencies
+* Ruby: 2.7.2
+* Rails: 6.0
+* Vue.js: 2.6.14
+* Vuetify: 2.5.8
+* webpacker: 4.3.0
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
 # rails-vue-pokemon-app
