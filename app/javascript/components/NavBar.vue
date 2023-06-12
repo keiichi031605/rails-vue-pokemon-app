@@ -54,13 +54,9 @@ export default {
   }),
   methods: {
     hitPokemonIndex() {
-      console.log("##########")
-      axios.get('/pokemons/')
-      .then(response => {
-        
-      }).catch(error => {
-        console.log('error', error)
-      });
+      // TODO: this approach is not ideal
+      this.$router.push('/pokemons');
+      location.reload()
     }
   }
 }
